@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sultan juma
-- 👀 I’m interested in hacking
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on hacking system
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ... 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am just a grade 9 student
+- ⚡ Fun fact: nothing
 
 <!---
 Ferran11/Ferran11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
